@@ -35,7 +35,7 @@ To use these presets, you must have the **EasyEffects** audio processing applica
 ### 2. Configure the Convolver
 
 1.  In the Convolver plugin interface, locate the **Impulse** settings.
-2.  Click the **"Import impulse"** at the top of the modal window.
+2.  Click the **"Import impulse"** button at the top of the modal window.
 3.  Navigate to and select your desired `.irs` file (e.g., `V15music.irs`).
 
 > [!WARNING]
